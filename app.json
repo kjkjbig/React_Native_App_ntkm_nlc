@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "App_ntkm_nilecon",
-    "slug": "App_ntkm_nilecon",
+    "name": "App_ntkm_nlc",
+    "slug": "App_ntkm_nlc",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "appntkmnilecon",
+    "scheme": "appntkmnlc",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
