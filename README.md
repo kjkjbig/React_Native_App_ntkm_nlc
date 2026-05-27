@@ -1,4 +1,4 @@
-# Welcome to your Expo app 👋
+<img width="1414" height="2000" alt="ภาพรวมระบบและโครงสร้างต่างๆ (1)" src="https://github.com/user-attachments/assets/1e58a077-9c6e-44b1-882f-a9d7127685b1" />
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
